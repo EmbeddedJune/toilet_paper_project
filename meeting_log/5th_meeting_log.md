@@ -2,7 +2,7 @@
 
 ## 주제 1. 사용하는 디바이스 및 소자 및 예상 사용 시나리오 결정
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/969f3a68-5fa9-4e83-b1ba-c5ce371c012a/Untitled.png](./csv/3rd_meeting/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/969f3a68-5fa9-4e83-b1ba-c5ce371c012a/Untitled.png](./csv/5th_meeting/Untitled.png)
 
 [Arduino Nano 33 IoT with headers](https://www.devicemart.co.kr/goods/view?no=12229354)
 
