@@ -38,7 +38,7 @@
 
 ![Untitled.png](./csv/3rd_meeting/Untitled.png)
 
-![Untitled1.png](meeting_log/csv/3rd_meeting/Untitled 1.png)
+![Untitled 1.png](meeting_log/csv/3rd_meeting/Untitled 1.png)
 
 ### C. 프로젝트 로드맵
 
