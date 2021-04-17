@@ -36,9 +36,9 @@
 
 ### B. 구현방법
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/930e6177-442d-4f3a-9bde-ec25f0474577/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/930e6177-442d-4f3a-9bde-ec25f0474577/Untitled.png)
+![Untitled.png](../csv/3rd_meeting/Untitled.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77f5bd50-c21a-4753-8599-517816e373a2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77f5bd50-c21a-4753-8599-517816e373a2/Untitled.png)
+![Untitled1.png](../csv/3rd_meeting/Untitled 1.png)
 
 ### C. 프로젝트 로드맵
 
