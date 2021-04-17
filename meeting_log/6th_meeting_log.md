@@ -10,7 +10,7 @@
 
 ![image2](./csv/6th_meeting/Untitled1.png)
 
-[프로젝트 구성품](./csv/6th_meeting/Untitled6.png)
+![프로젝트 구성품](./csv/6th_meeting/Untitled6.png)
 
 ### 2.2. 예상 결과물 설계도 구현
 
