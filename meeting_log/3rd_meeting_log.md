@@ -36,9 +36,9 @@
 
 ### B. 구현방법
 
-![Untitled.png](../csv/3rd_meeting/Untitled.png)
+![Untitled.png](./csv/3rd_meeting/Untitled.png)
 
-![Untitled1.png](../csv/3rd_meeting/Untitled 1.png)
+![Untitled1.png](./csv/3rd_meeting/Untitled 1.png)
 
 ### C. 프로젝트 로드맵
 
