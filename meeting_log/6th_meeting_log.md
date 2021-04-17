@@ -47,7 +47,7 @@
 
 # 3. 조직 R&R 구성
 
-[캡스톤디자인 2021 팀 R&R](https://www.notion.so/26fa961853be4d258fac8b614b681350)
+![캡스톤디자인 2021 팀 R&R](./csv/6th_meeting/Untitled7.png)
 
 # 4. 프로젝트 타임라인(간트) 구성
 
