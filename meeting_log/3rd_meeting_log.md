@@ -38,7 +38,7 @@
 
 ![Untitled.png](./csv/3rd_meeting/Untitled.png)
 
-![Untitled 1.png](meeting_log/csv/3rd_meeting/Untitled&#32;1.png)
+![Untitled 1.png](meeting_log/csv/3rd_meeting/Untitled1.png)
 
 ### C. 프로젝트 로드맵
 
@@ -52,9 +52,9 @@
         - 위생상 좋지 않음.
     - 영화관 같은 곳에서 시각적으로 보여주는 것도 있는데 그것보다 나은 점?
 
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6264ec45-8a73-4c41-92fc-2f9f9f8bddd3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6264ec45-8a73-4c41-92fc-2f9f9f8bddd3/Untitled.png)
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6264ec45-8a73-4c41-92fc-2f9f9f8bddd3/Untitled.png](meeting_log/csv/3rd_meeting/Untitled2.png)
 
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d3cf832-ff94-4ae8-801d-4737f47d318f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d3cf832-ff94-4ae8-801d-4737f47d318f/Untitled.png)
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d3cf832-ff94-4ae8-801d-4737f47d318f/Untitled.png](meeting_log/csv/3rd_meeting/Untitled3.png)
 
     - 
 
